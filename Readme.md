@@ -2,7 +2,7 @@
 
 ## Jacob Blomquist
 
-Based on the amazing [Nand2Tetris](www.nand2tetris.org) course.
+Based on the amazing [Nand2Tetris](https://www.nand2tetris.org) course.
 
 
 ### Progress
